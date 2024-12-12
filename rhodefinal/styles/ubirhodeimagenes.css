@@ -1,0 +1,9 @@
+header{
+	height: 1100px;
+	padding-top: 120px;
+	padding-bottom:120px;
+	background-image: url("../imagenes/rhodee.png") ;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	background-position: center;
